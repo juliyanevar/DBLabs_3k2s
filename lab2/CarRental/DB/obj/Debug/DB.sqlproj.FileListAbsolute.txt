@@ -1,0 +1,10 @@
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\bin\Debug\DB.dacpac
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\bin\Debug\DB.dll
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\bin\Debug\DB.pdb
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\obj\Debug\DB.sqlprojAssemblyReference.cache
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\obj\Debug\DB.dll
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\obj\Debug\DB.pdb
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\obj\Debug\Model.xml
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\obj\Debug\refactor.xml
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\obj\Debug\postdeploy.sql
+C:\Users\Julia\Documents\учеба\6 сем\ПиББДWП\labs\lab2\CarRental\DB\obj\Debug\predeploy.sql

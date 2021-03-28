@@ -1,0 +1,32 @@
+﻿@model IEnumerable<CarRental.Models.CarTypeModel>
+
+@{
+    ViewBag.Title = "ListCarType";
+}
+
+<h2>ListCarType</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AddCarType")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CarType)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CarType)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "UpdateCarType", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "DeleteCarType", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

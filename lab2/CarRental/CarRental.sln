@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental", "CarRental\CarRental.csproj", "{A865C409-7328-478A-96F1-89A853AEFFBB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB", "DB\DB.sqlproj", "{395EC5AB-C67B-43A9-8730-F7564E1E0750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A865C409-7328-478A-96F1-89A853AEFFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A865C409-7328-478A-96F1-89A853AEFFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A865C409-7328-478A-96F1-89A853AEFFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A865C409-7328-478A-96F1-89A853AEFFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395EC5AB-C67B-43A9-8730-F7564E1E0750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395EC5AB-C67B-43A9-8730-F7564E1E0750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395EC5AB-C67B-43A9-8730-F7564E1E0750}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{395EC5AB-C67B-43A9-8730-F7564E1E0750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395EC5AB-C67B-43A9-8730-F7564E1E0750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395EC5AB-C67B-43A9-8730-F7564E1E0750}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8161C8-F5AF-49FE-BD79-FADD48A676E1}
+	EndGlobalSection
+EndGlobal
